@@ -1,1 +1,1 @@
-# homepage
+hie this is gonna serve as the homepage to my internal homelab services :3
